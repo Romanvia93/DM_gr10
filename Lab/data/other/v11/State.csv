@@ -1,0 +1,626 @@
+State,State_ID,Region_ID
+Kentucky,1,1
+California,2,2
+Florida,3,1
+California,4,2
+North Carolina,5,1
+Washington,6,2
+Texas,7,3
+Wisconsin,8,3
+Utah,9,2
+California,10,2
+Nebraska,11,3
+Pennsylvania,12,4
+Utah,13,2
+California,14,2
+Texas,15,3
+Texas,16,3
+Texas,17,3
+Illinois,18,3
+Florida,19,1
+Minnesota,20,3
+Michigan,21,3
+Delaware,22,4
+Indiana,23,3
+New York,24,4
+New York,25,4
+California,26,2
+Arizona,27,2
+Virginia,28,1
+Michigan,29,3
+Tennessee,30,1
+Texas,31,3
+Alabama,32,1
+California,33,2
+North Carolina,34,1
+Illinois,35,3
+South Carolina,36,1
+Minnesota,37,3
+Minnesota,38,3
+Oregon,39,2
+New York,40,4
+Minnesota,41,3
+Illinois,42,3
+Colorado,43,2
+North Carolina,44,1
+Illinois,45,3
+New York,46,4
+Iowa,47,3
+Ohio,48,4
+Tennessee,49,1
+Delaware,50,4
+Illinois,51,3
+Arizona,52,2
+California,53,2
+Missouri,54,3
+California,55,2
+Ohio,56,4
+Wisconsin,57,3
+Arizona,58,2
+California,59,2
+Washington,60,2
+Washington,61,2
+Oklahoma,62,3
+California,63,2
+Pennsylvania,64,4
+New Mexico,65,2
+Texas,66,3
+Texas,67,3
+Illinois,68,3
+Louisiana,69,1
+Connecticut,70,4
+Texas,71,3
+California,72,2
+Ohio,73,4
+New Jersey,74,4
+Pennsylvania,75,4
+Ohio,76,4
+Colorado,77,2
+Texas,78,3
+Tennessee,79,1
+California,80,2
+Michigan,81,3
+Ohio,82,4
+Ohio,83,4
+Michigan,84,3
+Tennessee,85,1
+Florida,86,1
+California,87,2
+Minnesota,88,3
+California,89,2
+Texas,90,3
+California,91,2
+North Carolina,92,1
+New Jersey,93,4
+Ohio,94,4
+California,95,2
+California,96,2
+Florida,97,1
+Colorado,98,2
+New Jersey,99,4
+Michigan,100,3
+New Jersey,101,4
+Virginia,102,1
+Colorado,103,2
+New Jersey,104,4
+Florida,105,1
+Pennsylvania,106,4
+California,107,2
+California,108,2
+Tennessee,109,1
+Utah,110,2
+Texas,111,3
+Massachusetts,112,4
+Georgia,113,1
+Connecticut,114,4
+Texas,115,3
+Arizona,116,2
+Illinois,117,3
+Massachusetts,118,4
+Florida,119,1
+Washington,120,2
+Illinois,121,3
+Nevada,122,2
+Rhode Island,123,4
+Florida,124,1
+North Carolina,125,1
+California,126,2
+Kentucky,127,1
+Colorado,128,2
+Massachusetts,129,4
+Mississippi,130,1
+Michigan,131,3
+New York,132,4
+North Carolina,133,1
+Florida,134,1
+Indiana,135,3
+New York,136,4
+Oklahoma,137,3
+California,138,2
+Illinois,139,3
+Texas,140,3
+New York,141,4
+California,142,2
+California,143,2
+Texas,144,3
+New York,145,4
+Arkansas,146,1
+California,147,2
+Colorado,148,2
+Georgia,149,1
+Missouri,150,3
+Montana,151,2
+Michigan,152,3
+Florida,153,1
+Alabama,154,1
+Arizona,155,2
+Illinois,156,3
+Wisconsin,157,3
+Ohio,158,4
+California,159,2
+Washington,160,2
+Oregon,161,2
+Texas,162,3
+Texas,163,3
+Ohio,164,4
+New York,165,4
+Michigan,166,3
+Georgia,167,1
+California,168,2
+California,169,2
+New Jersey,170,4
+Arizona,171,2
+Washington,172,2
+Illinois,173,3
+Texas,174,3
+Kentucky,175,1
+Texas,176,3
+Ohio,177,4
+Texas,178,3
+North Carolina,179,1
+Virginia,180,1
+Pennsylvania,181,4
+North Carolina,182,1
+Florida,183,1
+New York,184,4
+Michigan,185,3
+Florida,186,1
+New York,187,4
+California,188,2
+Illinois,189,3
+Michigan,190,3
+Minnesota,191,3
+Louisiana,192,1
+Iowa,193,3
+California,194,2
+Virginia,195,1
+California,196,2
+Nebraska,197,3
+Washington,198,2
+California,199,2
+Wisconsin,200,3
+Kentucky,201,1
+Ohio,202,4
+New Jersey,203,4
+California,204,2
+New Jersey,205,4
+Pennsylvania,206,4
+New Hampshire,207,4
+Maryland,208,4
+Texas,209,3
+Connecticut,210,4
+Virginia,211,1
+Ohio,212,4
+New Mexico,213,2
+California,214,2
+California,215,2
+Texas,216,3
+California,217,2
+Florida,218,1
+Virginia,219,1
+California,220,2
+North Carolina,221,1
+Iowa,222,3
+Washington,223,2
+District of Columbia,224,4
+Missouri,225,3
+Missouri,226,3
+Illinois,227,3
+Florida,228,1
+Texas,229,3
+New York,230,4
+California,231,2
+North Carolina,232,1
+Maryland,233,4
+California,234,2
+Georgia,235,1
+Arkansas,236,1
+Indiana,237,3
+California,238,2
+Florida,239,1
+Indiana,240,3
+Michigan,241,3
+Ohio,242,4
+Nevada,243,2
+Virginia,244,1
+California,245,2
+Michigan,246,3
+Maryland,247,4
+Florida,248,1
+New York,249,4
+Florida,250,1
+Mississippi,251,1
+California,252,2
+North Carolina,253,1
+New York,254,4
+Alabama,255,1
+Georgia,256,1
+Iowa,257,3
+Rhode Island,258,4
+Colorado,259,2
+California,260,2
+Florida,261,1
+Kentucky,262,1
+Connecticut,263,4
+New York,264,4
+California,265,2
+Utah,266,2
+Utah,267,2
+Georgia,268,1
+Virginia,269,1
+Ohio,270,4
+Alabama,271,1
+Massachusetts,272,4
+Texas,273,3
+New Jersey,274,4
+Arizona,275,2
+New York,276,4
+North Carolina,277,1
+California,278,2
+Tennessee,279,1
+Texas,280,3
+California,281,2
+Nevada,282,2
+Pennsylvania,283,4
+Delaware,284,4
+Arizona,285,2
+California,286,2
+New Jersey,287,4
+Massachusetts,288,4
+New York,289,4
+Wisconsin,290,3
+Washington,291,2
+Texas,292,3
+Texas,293,3
+Texas,294,3
+Texas,295,3
+Tennessee,296,1
+Washington,297,2
+Louisiana,298,1
+Oregon,299,2
+Illinois,300,3
+Texas,301,3
+Virginia,302,1
+Indiana,303,3
+New Jersey,304,4
+North Carolina,305,1
+North Carolina,306,1
+Maryland,307,4
+Wisconsin,308,3
+Kansas,309,3
+Oklahoma,310,3
+Oregon,311,2
+North Carolina,312,1
+Oklahoma,313,3
+Connecticut,314,4
+Kentucky,315,1
+Indiana,316,3
+Connecticut,317,4
+Nevada,318,2
+Washington,319,2
+Texas,320,3
+Ohio,321,4
+Florida,322,1
+Oregon,323,2
+Virginia,324,1
+Florida,325,1
+South Carolina,326,1
+Oregon,327,2
+Florida,328,1
+Pennsylvania,329,4
+Colorado,330,2
+Missouri,331,3
+New Jersey,332,4
+Oklahoma,333,3
+Virginia,334,1
+Texas,335,3
+Missouri,336,3
+Tennessee,337,1
+Alabama,338,1
+California,339,2
+Massachusetts,340,4
+Montana,341,2
+Arizona,342,2
+Ohio,343,4
+New Jersey,344,4
+California,345,2
+California,346,2
+Minnesota,347,3
+Texas,348,3
+California,349,2
+Florida,350,1
+California,351,2
+New Hampshire,352,4
+Pennsylvania,353,4
+Texas,354,3
+Missouri,355,3
+Massachusetts,356,4
+California,357,2
+Ohio,358,4
+Texas,359,3
+Utah,360,2
+Alabama,361,1
+Tennessee,362,1
+Arkansas,363,1
+Michigan,364,3
+Ohio,365,4
+Colorado,366,2
+Maine,367,4
+Mississippi,368,1
+Indiana,369,3
+Michigan,370,3
+South Dakota,371,3
+Colorado,372,2
+Indiana,373,3
+Tennessee,374,1
+California,375,2
+California,376,2
+Massachusetts,377,4
+Massachusetts,378,4
+New Mexico,379,2
+Nevada,380,2
+California,381,2
+Illinois,382,3
+New Jersey,383,4
+South Carolina,384,1
+Virginia,385,1
+New York,386,4
+Indiana,387,3
+Ohio,388,4
+California,389,2
+Florida,390,1
+Tennessee,391,1
+Washington,392,2
+Illinois,393,3
+Texas,394,3
+Illinois,395,3
+South Carolina,396,1
+Arkansas,397,1
+North Carolina,398,1
+Colorado,399,2
+Ohio,400,4
+New Mexico,401,2
+Alabama,402,1
+Texas,403,3
+California,404,2
+Utah,405,2
+Wisconsin,406,3
+California,407,2
+Florida,408,1
+Ohio,409,4
+Texas,410,3
+California,411,2
+Florida,412,1
+New Jersey,413,4
+Louisiana,414,1
+Illinois,415,3
+New York,416,4
+Indiana,417,3
+Minnesota,418,3
+South Carolina,419,1
+Michigan,420,3
+Wisconsin,421,3
+Texas,422,3
+Montana,423,2
+Oregon,424,2
+Idaho,425,2
+California,426,2
+Illinois,427,3
+Minnesota,428,3
+California,429,2
+Texas,430,3
+Texas,431,3
+California,432,2
+Michigan,433,3
+California,434,2
+Kansas,435,3
+California,436,2
+California,437,2
+Massachusetts,438,4
+Illinois,439,3
+Iowa,440,3
+Michigan,441,3
+New Mexico,442,2
+North Carolina,443,1
+Illinois,444,3
+Minnesota,445,3
+Florida,446,1
+Indiana,447,3
+Florida,448,1
+Florida,449,1
+South Carolina,450,1
+Texas,451,3
+Wisconsin,452,3
+California,453,2
+Kansas,454,3
+Pennsylvania,455,4
+Colorado,456,2
+Illinois,457,3
+Indiana,458,3
+Arkansas,459,1
+Texas,460,3
+Texas,461,3
+Indiana,462,3
+California,463,2
+Rhode Island,464,4
+Wisconsin,465,3
+Texas,466,3
+Washington,467,2
+Oklahoma,468,3
+Florida,469,1
+Florida,470,1
+Kansas,471,3
+Texas,472,3
+Iowa,473,3
+Idaho,474,2
+Rhode Island,475,4
+Illinois,476,3
+Texas,477,3
+California,478,2
+Texas,479,3
+Washington,480,2
+Florida,481,1
+Arizona,482,2
+Indiana,483,3
+North Dakota,484,3
+Indiana,485,3
+California,486,2
+Florida,487,1
+Georgia,488,1
+Ohio,489,4
+Oklahoma,490,3
+Virginia,491,1
+New York,492,4
+Wisconsin,493,3
+Idaho,494,2
+Mississippi,495,1
+California,496,2
+Michigan,497,3
+Utah,498,2
+Connecticut,499,4
+Georgia,500,1
+Maine,501,4
+Illinois,502,3
+Arizona,503,2
+Georgia,504,1
+Arizona,505,2
+Wisconsin,506,3
+Washington,507,2
+Illinois,508,3
+Florida,509,1
+Texas,510,3
+Maryland,511,4
+Utah,512,2
+Alabama,513,1
+California,514,2
+Kentucky,515,1
+Colorado,516,2
+Arizona,517,2
+Montana,518,2
+Missouri,519,3
+Texas,520,3
+Michigan,521,3
+Illinois,522,3
+Pennsylvania,523,4
+Minnesota,524,3
+Nebraska,525,3
+Minnesota,526,3
+Michigan,527,3
+Arkansas,528,1
+New Mexico,529,2
+Florida,530,1
+California,531,2
+Texas,532,3
+Nebraska,533,3
+Utah,534,2
+Michigan,535,3
+California,536,2
+Idaho,537,2
+Michigan,538,3
+Connecticut,539,4
+Illinois,540,3
+California,541,2
+California,542,2
+California,543,2
+Tennessee,544,1
+New York,545,4
+Arkansas,546,1
+Wyoming,547,2
+Kentucky,548,1
+Idaho,549,2
+Louisiana,550,1
+New Hampshire,551,4
+Tennessee,552,1
+California,553,2
+Tennessee,554,1
+California,555,2
+Illinois,556,3
+Washington,557,2
+Tennessee,558,1
+Iowa,559,3
+Massachusetts,560,4
+Illinois,561,3
+Massachusetts,562,4
+Oregon,563,2
+California,564,2
+Washington,565,2
+Illinois,566,3
+Florida,567,1
+Colorado,568,2
+Texas,569,3
+North Carolina,570,1
+New Mexico,571,2
+North Carolina,572,1
+Washington,573,2
+California,574,2
+California,575,2
+Texas,576,3
+Florida,577,1
+Texas,578,3
+Illinois,579,3
+Missouri,580,3
+Illinois,581,3
+California,582,2
+Oregon,583,2
+California,584,2
+California,585,2
+Kansas,586,3
+New Jersey,587,4
+Colorado,588,2
+California,589,2
+West Virginia,590,4
+California,591,2
+New Jersey,592,4
+Wisconsin,593,3
+Georgia,594,1
+South Dakota,595,3
+Massachusetts,596,4
+Florida,597,1
+Connecticut,598,4
+Iowa,599,3
+Florida,600,1
+Texas,601,3
+Colorado,602,2
+Texas,603,3
+Ohio,604,4
+Idaho,605,2
+Florida,606,1
+Illinois,607,3
+Massachusetts,608,4
+Maryland,609,4
+Texas,610,3
+Arkansas,611,1
+South Dakota,612,3
+Maryland,613,4
+New Jersey,614,4
+Illinois,615,3
+Illinois,616,3
+Minnesota,617,3
+California,618,2
+California,619,2
+California,620,2
+Arkansas,621,1
+California,622,2
+Texas,623,3
+Ohio,624,4
+Georgia,625,1

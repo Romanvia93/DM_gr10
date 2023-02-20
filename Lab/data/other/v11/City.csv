@@ -1,0 +1,626 @@
+City,City_ID,State_ID
+Henderson,1,1
+Los Angeles,2,2
+Fort Lauderdale,3,3
+Los Angeles,4,2
+Concord,5,5
+Seattle,6,6
+Fort Worth,7,7
+Madison,8,8
+West Jordan,9,9
+San Francisco,10,2
+Fremont,11,11
+Philadelphia,12,12
+Orem,13,9
+Los Angeles,14,2
+Houston,15,7
+Richardson,16,7
+Houston,17,7
+Naperville,18,18
+Melbourne,19,3
+Eagan,20,20
+Westland,21,21
+Dover,22,22
+New Albany,23,23
+New York City,24,24
+Troy,25,24
+Los Angeles,26,2
+Gilbert,27,27
+Springfield,28,28
+Jackson,29,21
+Memphis,30,30
+Houston,31,7
+Decatur,32,32
+San Francisco,33,2
+Durham,34,5
+Chicago,35,18
+Columbia,36,36
+Rochester,37,20
+Minneapolis,38,20
+Portland,39,39
+New York City,40,24
+Saint Paul,41,20
+Chicago,42,18
+Aurora,43,43
+Charlotte,44,5
+Orland Park,45,18
+New York City,46,24
+Urbandale,47,47
+Columbus,48,48
+Bristol,49,30
+Wilmington,50,22
+Bloomington,51,18
+Phoenix,52,27
+Roseville,53,2
+Independence,54,54
+Pasadena,55,2
+Newark,56,48
+Franklin,57,8
+Scottsdale,58,27
+San Jose,59,2
+Seattle,60,6
+Seattle,61,6
+Edmond,62,62
+Los Angeles,63,2
+Philadelphia,64,12
+Carlsbad,65,65
+San Antonio,66,7
+Houston,67,7
+Decatur,68,18
+Monroe,69,69
+Fairfield,70,70
+Grand Prairie,71,7
+Redlands,72,2
+Hamilton,73,48
+Westfield,74,74
+Philadelphia,75,12
+Akron,76,48
+Denver,77,43
+Dallas,78,7
+Franklin,79,30
+Whittier,80,2
+Saginaw,81,21
+Medina,82,48
+Dublin,83,48
+Detroit,84,21
+Columbia,85,30
+Tampa,86,3
+Santa Clara,87,2
+Lakeville,88,20
+San Diego,89,2
+Pasadena,90,7
+Brentwood,91,2
+Chapel Hill,92,5
+Morristown,93,74
+Cincinnati,94,48
+San Francisco,95,2
+Inglewood,96,2
+Tamarac,97,3
+Colorado Springs,98,43
+Belleville,99,74
+Taylor,100,21
+Lakewood,101,74
+Arlington,102,28
+Arvada,103,43
+Hackensack,104,74
+Saint Petersburg,105,3
+Philadelphia,106,12
+Long Beach,107,2
+Hesperia,108,2
+Murfreesboro,109,30
+Layton,110,9
+Austin,111,7
+Lowell,112,112
+Columbus,113,113
+Manchester,114,70
+Harlingen,115,7
+Tucson,116,27
+Quincy,117,18
+Franklin,118,112
+Pembroke Pines,119,3
+Des Moines,120,6
+Peoria,121,18
+Las Vegas,122,122
+Warwick,123,123
+Miami,124,3
+Wilmington,125,5
+Huntington Beach,126,2
+Richmond,127,1
+Louisville,128,43
+Lawrence,129,112
+Jackson,130,130
+Canton,131,21
+New Rochelle,132,24
+Gastonia,133,5
+Jacksonville,134,3
+Columbus,135,23
+Auburn,136,24
+Norman,137,62
+Concord,138,2
+Park Ridge,139,18
+Amarillo,140,7
+Lindenhurst,141,24
+Los Angeles,142,2
+San Diego,143,2
+Huntsville,144,7
+Rochester,145,24
+Fayetteville,146,146
+Costa Mesa,147,2
+Parker,148,43
+Atlanta,149,113
+Gladstone,150,54
+Great Falls,151,151
+Detroit,152,21
+Lakeland,153,3
+Montgomery,154,32
+Mesa,155,27
+Chicago,156,18
+Green Bay,157,8
+Springfield,158,48
+Anaheim,159,2
+Marysville,160,6
+Salem,161,39
+Laredo,162,7
+Dallas,163,7
+Grove City,164,48
+New York City,165,24
+Dearborn,166,21
+Warner Robins,167,113
+Vallejo,168,2
+Mission Viejo,169,2
+Plainfield,170,74
+Sierra Vista,171,27
+Vancouver,172,6
+Aurora,173,18
+Arlington,174,7
+Louisville,175,1
+Dallas,176,7
+Cleveland,177,48
+Tyler,178,7
+Burlington,179,5
+Waynesboro,180,28
+Chester,181,12
+Cary,182,5
+Palm Coast,183,3
+Mount Vernon,184,24
+Detroit,185,21
+Hialeah,186,3
+Oceanside,187,24
+San Diego,188,2
+Evanston,189,18
+Trenton,190,21
+Cottage Grove,191,20
+Bossier City,192,69
+Des Moines,193,47
+Lancaster,194,2
+Richmond,195,28
+Lake Elsinore,196,2
+Omaha,197,11
+Edmonds,198,6
+Santa Ana,199,2
+Milwaukee,200,8
+Florence,201,1
+Lorain,202,48
+Linden,203,74
+Salinas,204,2
+New Brunswick,205,74
+Lancaster,206,12
+Concord,207,207
+Columbia,208,208
+Garland,209,7
+Norwich,210,70
+Alexandria,211,28
+Toledo,212,48
+Farmington,213,65
+Riverside,214,2
+Torrance,215,2
+Round Rock,216,7
+Oceanside,217,2
+Boca Raton,218,3
+Virginia Beach,219,28
+Murrieta,220,2
+Jacksonville,221,5
+Burlington,222,47
+Olympia,223,6
+Washington,224,224
+Jefferson City,225,54
+Saint Peters,226,54
+Rockford,227,18
+Miami,228,3
+Brownsville,229,7
+Yonkers,230,24
+Oakland,231,2
+Monroe,232,5
+Clinton,233,208
+Encinitas,234,2
+Roswell,235,113
+Jonesboro,236,146
+Richmond,237,23
+Antioch,238,2
+Homestead,239,3
+La Porte,240,23
+Lansing,241,21
+Cuyahoga Falls,242,48
+Reno,243,122
+Harrisonburg,244,28
+Escondido,245,2
+Royal Oak,246,21
+Rockville,247,208
+Coral Springs,248,3
+Buffalo,249,24
+Boynton Beach,250,3
+Gulfport,251,130
+Fresno,252,2
+Greenville,253,5
+Long Beach,254,24
+Florence,255,32
+Macon,256,113
+Cedar Rapids,257,47
+Providence,258,123
+Pueblo,259,43
+Fairfield,260,2
+Deltona,261,3
+Murray,262,1
+Middletown,263,70
+Freeport,264,24
+Pico Rivera,265,2
+Provo,266,9
+Pleasant Grove,267,9
+Smyrna,268,113
+Salem,269,28
+Parma,270,48
+Mobile,271,32
+New Bedford,272,112
+Irving,273,7
+Vineland,274,74
+Glendale,275,27
+Niagara Falls,276,24
+Thomasville,277,5
+Westminster,278,2
+Jackson,279,30
+Coppell,280,7
+Pomona,281,2
+North Las Vegas,282,122
+Allentown,283,12
+Newark,284,22
+Tempe,285,27
+Laguna Niguel,286,2
+Bridgeton,287,74
+Everett,288,112
+Watertown,289,24
+Appleton,290,8
+Bellevue,291,6
+Allen,292,7
+El Paso,293,7
+Grapevine,294,7
+Carrollton,295,7
+Smyrna,296,30
+Kent,297,6
+Lafayette,298,69
+Tigard,299,39
+Skokie,300,18
+Plano,301,7
+Suffolk,302,28
+Indianapolis,303,23
+Bayonne,304,74
+Fayetteville,305,5
+Greensboro,306,5
+Baltimore,307,208
+Kenosha,308,8
+Olathe,309,309
+Tulsa,310,62
+Redmond,311,39
+Raleigh,312,5
+Muskogee,313,62
+Meriden,314,70
+Bowling Green,315,1
+South Bend,316,23
+Bristol,317,70
+Henderson,318,122
+Spokane,319,6
+Keller,320,7
+Fairfield,321,48
+Port Orange,322,3
+Medford,323,39
+Charlottesville,324,28
+Miami,325,3
+Florence,326,36
+Springfield,327,39
+Apopka,328,3
+Reading,329,12
+Broomfield,330,43
+Springfield,331,54
+Paterson,332,74
+Oklahoma City,333,62
+Chesapeake,334,28
+Lubbock,335,7
+Columbia,336,54
+Johnson City,337,30
+Auburn,338,32
+San Bernardino,339,2
+Leominster,340,112
+Bozeman,341,151
+Peoria,342,27
+Lakewood,343,48
+Perth Amboy,344,74
+Ontario,345,2
+Rancho Cucamonga,346,2
+Moorhead,347,20
+Mesquite,348,7
+Stockton,349,2
+Ormond Beach,350,3
+Sunnyvale,351,2
+Dover,352,207
+York,353,12
+College Station,354,7
+Saint Louis,355,54
+Quincy,356,112
+Manteca,357,2
+Kent,358,48
+San Angelo,359,7
+Salt Lake City,360,9
+Huntsville,361,32
+Knoxville,362,30
+Little Rock,363,146
+Lincoln Park,364,21
+Marion,365,48
+Littleton,366,43
+Bangor,367,367
+Southaven,368,130
+New Castle,369,23
+Midland,370,21
+Sioux Falls,371,371
+Fort Collins,372,43
+Lafayette,373,23
+Clarksville,374,30
+Sacramento,375,2
+Thousand Oaks,376,2
+Malden,377,112
+Holyoke,378,112
+Albuquerque,379,65
+Sparks,380,122
+Coachella,381,2
+Elmhurst,382,18
+Passaic,383,74
+North Charleston,384,36
+Newport News,385,28
+Jamestown,386,24
+Mishawaka,387,23
+Bowling Green,388,48
+La Quinta,389,2
+Tallahassee,390,3
+Nashville,391,30
+Bellingham,392,6
+Woodstock,393,18
+Haltom City,394,7
+Wheeling,395,18
+Summerville,396,36
+Hot Springs,397,146
+Asheville,398,5
+Englewood,399,43
+Lancaster,400,48
+Las Cruces,401,65
+Hoover,402,32
+Frisco,403,7
+Vacaville,404,2
+Murray,405,9
+Waukesha,406,8
+Bakersfield,407,2
+Pompano Beach,408,3
+Troy,409,48
+Corpus Christi,410,7
+Redondo Beach,411,2
+Orlando,412,3
+Orange,413,74
+Lake Charles,414,69
+Highland Park,415,18
+Hempstead,416,24
+Noblesville,417,23
+Apple Valley,418,20
+Mount Pleasant,419,36
+Sterling Heights,420,21
+Eau Claire,421,8
+Pharr,422,7
+Billings,423,151
+Gresham,424,39
+Meridian,425,425
+Apple Valley,426,2
+Bolingbrook,427,18
+Maple Grove,428,20
+Woodland,429,2
+Missouri City,430,7
+Pearland,431,7
+San Mateo,432,2
+Grand Rapids,433,21
+Visalia,434,2
+Overland Park,435,309
+Temecula,436,2
+Yucaipa,437,2
+Revere,438,112
+Tinley Park,439,18
+Dubuque,440,47
+Dearborn Heights,441,21
+Santa Fe,442,65
+Hickory,443,5
+Carol Stream,444,18
+Saint Cloud,445,20
+North Miami,446,3
+Lawrence,447,23
+Plantation,448,3
+Port Saint Lucie,449,3
+Rock Hill,450,36
+Odessa,451,7
+West Allis,452,8
+Chula Vista,453,2
+Manhattan,454,309
+Altoona,455,12
+Thornton,456,43
+Champaign,457,18
+Bloomington,458,23
+Texarkana,459,146
+Edinburg,460,7
+Baytown,461,7
+Greenwood,462,23
+Lakewood,463,2
+Woonsocket,464,123
+Superior,465,8
+Bedford,466,7
+Covington,467,6
+Broken Arrow,468,62
+Miramar,469,3
+Hollywood,470,3
+Wichita,471,309
+Mcallen,472,7
+Iowa City,473,47
+Boise,474,425
+Cranston,475,123
+Freeport,476,18
+Port Arthur,477,7
+Citrus Heights,478,2
+The Colony,479,7
+Redmond,480,6
+Daytona Beach,481,3
+Bullhead City,482,27
+Portage,483,23
+Fargo,484,484
+Elkhart,485,23
+San Gabriel,486,2
+Margate,487,3
+Sandy Springs,488,113
+Mentor,489,48
+Lawton,490,62
+Hampton,491,28
+Rome,492,24
+La Crosse,493,8
+Lewiston,494,425
+Hattiesburg,495,130
+Danville,496,2
+Mount Pleasant,497,21
+Logan,498,9
+Waterbury,499,70
+Athens,500,113
+Lewiston,501,367
+Danville,502,18
+Avondale,503,27
+Marietta,504,113
+Yuma,505,27
+Wausau,506,8
+Pasco,507,6
+Oak Park,508,18
+Pensacola,509,3
+League City,510,7
+Gaithersburg,511,208
+Lehi,512,9
+Tuscaloosa,513,32
+Moreno Valley,514,2
+Georgetown,515,1
+Loveland,516,43
+Chandler,517,27
+Helena,518,151
+Kirkwood,519,54
+Waco,520,7
+Roseville,521,21
+Frankfort,522,18
+Bethlehem,523,12
+Roseville,524,20
+Grand Island,525,11
+Woodbury,526,20
+Oak Park,527,21
+Rogers,528,146
+Clovis,529,65
+Jupiter,530,3
+Santa Barbara,531,2
+Cedar Hill,532,7
+Norfolk,533,11
+Draper,534,9
+Ann Arbor,535,21
+La Mesa,536,2
+Pocatello,537,425
+Holland,538,21
+Milford,539,70
+Buffalo Grove,540,18
+Lake Forest,541,2
+Redding,542,2
+Chico,543,2
+Chattanooga,544,30
+Utica,545,24
+Conway,546,146
+Cheyenne,547,547
+Owensboro,548,1
+Caldwell,549,425
+Kenner,550,69
+Nashua,551,207
+Bartlett,552,30
+Redwood City,553,2
+Lebanon,554,30
+Santa Maria,555,2
+Des Plaines,556,18
+Longview,557,6
+Hendersonville,558,30
+Waterloo,559,47
+Cambridge,560,112
+Palatine,561,18
+Beverly,562,112
+Eugene,563,39
+Oxnard,564,2
+Renton,565,6
+Glenview,566,18
+Delray Beach,567,3
+Commerce City,568,43
+Texas City,569,7
+Wilson,570,5
+Rio Rancho,571,65
+Goldsboro,572,5
+Everett,573,6
+Montebello,574,2
+El Cajon,575,2
+Beaumont,576,7
+West Palm Beach,577,3
+Abilene,578,7
+Normal,579,18
+Saint Charles,580,54
+Saint Charles,581,18
+Camarillo,582,2
+Hillsboro,583,39
+Burbank,584,2
+Modesto,585,2
+Garden City,586,309
+Atlantic City,587,74
+Longmont,588,43
+Davis,589,2
+Wheeling,590,590
+Morgan Hill,591,2
+Clifton,592,74
+Sheboygan,593,8
+East Point,594,113
+Rapid City,595,371
+Andover,596,112
+Kissimmee,597,3
+Shelton,598,70
+Marion,599,47
+Sanford,600,3
+San Marcos,601,7
+Greeley,602,43
+Mansfield,603,7
+Elyria,604,48
+Twin Falls,605,425
+Coral Gables,606,3
+Romeoville,607,18
+Marlborough,608,112
+Laurel,609,208
+Bryan,610,7
+Pine Bluff,611,146
+Aberdeen,612,371
+Hagerstown,613,208
+East Orange,614,74
+Arlington Heights,615,18
+Oswego,616,18
+Coon Rapids,617,20
+San Clemente,618,2
+Dublin,619,2
+San Luis Obispo,620,2
+Springdale,621,146
+Lodi,622,2
+La Porte,623,7
+Mason,624,48
+Woodstock,625,113

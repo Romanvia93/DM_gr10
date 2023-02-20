@@ -1,0 +1,49 @@
+State,Region_ID,State_ID
+Kentucky,1,1
+Florida,1,2
+North Carolina,1,3
+Virginia,1,4
+Tennessee,1,5
+Alabama,1,6
+South Carolina,1,7
+Louisiana,1,8
+Georgia,1,9
+Mississippi,1,10
+Arkansas,1,11
+California,2,12
+Washington,2,13
+Utah,2,14
+Arizona,2,15
+Oregon,2,16
+Colorado,2,17
+New Mexico,2,18
+Nevada,2,19
+Montana,2,20
+Idaho,2,21
+Wyoming,2,22
+Texas,3,23
+Wisconsin,3,24
+Nebraska,3,25
+Illinois,3,26
+Minnesota,3,27
+Michigan,3,28
+Indiana,3,29
+Iowa,3,30
+Missouri,3,31
+Oklahoma,3,32
+Kansas,3,33
+South Dakota,3,34
+North Dakota,3,35
+Pennsylvania,4,36
+Delaware,4,37
+New York,4,38
+Ohio,4,39
+Connecticut,4,40
+New Jersey,4,41
+Massachusetts,4,42
+Rhode Island,4,43
+New Hampshire,4,44
+Maryland,4,45
+District of Columbia,4,46
+Maine,4,47
+West Virginia,4,48
